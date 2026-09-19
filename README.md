@@ -49,7 +49,6 @@ Interested in **industrial automation, robotics, and control systems.**
 * 🤖 Robotics and industrial automation
 * ⚙️ PLC programming and industrial control
 * 🎛️ Classic control systems
-* 👁️ Computer vision and AI applications
 * 🔌 Embedded systems and sensors
 * 🏭 Industrial simulation using Factory I/O
 * 📐 MATLAB & Simulink for engineering applications
@@ -92,31 +91,18 @@ Designed to improve environmental awareness and mobility for visually impaired u
 
 ---
 
-### ⚡ Microbial Fuel Cell System
-
-Experimental energy-generation project integrating:
-
-* pH sensing
-* Peltier-based components
-* Electrical measurements
-* Microbial fuel cell technology
-
----
 
 ## 🎓 Education
 
 **University of Debrecen**
 B.Sc. Mechatronics Engineering
-2025 – 2029
-
-**Red Sea STEM High School**
-STEM Education • 2021 – 2024
+2025 – Jan 2029
 
 ---
 
 ## 📚 Currently Learning
 
-**C++ • MATLAB/Simulink • PLC Programming • Industrial Automation • Robotics • Computer Vision**
+**C++ • MATLAB/Simulink • PLC Programming • Industrial Automation • Robotics **
 
 ---
 
