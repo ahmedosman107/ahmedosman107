@@ -4,7 +4,9 @@
 
 ### Mechatronics Engineering Student | Automation | Robotics | Control Systems
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" alt="Robot" width="15%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
+     alt="Engineering Workspace" width="35%"/>
+
 
 <br>
 
