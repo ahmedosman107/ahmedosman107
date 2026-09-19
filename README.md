@@ -12,7 +12,7 @@
 
 **B.Sc. Mechatronics Engineering @ University of Debrecen**
 
-Interested in **industrial automation, robotics, control systems, computer vision, and embedded systems.**
+Interested in **industrial automation, robotics, and control systems.**
 
 </div>
 
@@ -39,6 +39,8 @@ Interested in **industrial automation, robotics, control systems, computer visio
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat\&logo=autodesk\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Factory I/O](https://img.shields.io/badge/Factory%20I%2FO-Simulation-blue?style=flat)
+
 
 ---
 
