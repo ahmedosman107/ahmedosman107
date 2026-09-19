@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ahmed Rafeek 👋
+# Hi, I'm Ahmed Osman 👋
 
 ### Mechatronics Engineering Student | Automation | Robotics | Control Systems
 
