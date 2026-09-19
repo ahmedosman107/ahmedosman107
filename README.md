@@ -4,7 +4,7 @@
 
 ### Mechatronics Engineering Student | Automation | Robotics | Control Systems
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" alt="Robot" width="15%"/>
 
 <br>
 
